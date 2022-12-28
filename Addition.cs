@@ -16,5 +16,13 @@ namespace Demo231
 
             Console.WriteLine(c);
         }
+
+        public void sub()
+        {
+            int e = 30;
+            int f = 20;
+            int g = e - f;
+            Console.WriteLine(g);
+        }
     }
 }
